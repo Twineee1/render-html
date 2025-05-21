@@ -8,10 +8,10 @@ This library is especially useful for quickly visualizing and testing HTML conte
 ## Installation
 
 You can install `render_html` using pip:
-
+```
 pip install render-html
-
-NOTE: the library requires Python 3.10 or newer
+```
+NOTE: The library requires Python 3.10 or newer.
 
 ## Usage
 
